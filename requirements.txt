@@ -1,0 +1,10 @@
+pandas
+numpy
+scikit-learn
+nltk
+langchain
+sentence-transformers
+faiss-cpu # or chromadb
+transformers
+torch
+gradio # or streamlit
